@@ -177,6 +177,8 @@
   + https://github.com/dvornikita/blitznet [Tensorflow]
 - PANet [https://arxiv.org/pdf/1803.01534.pdf] [2018]
   + https://github.com/ShuLiu1993/PANet [Caffe]
+- InstaBoost [https://arxiv.org/pdf/1908.07801v1.pdf] [ICCV 2019]
+  + https://github.com/GothicAi/InstaBoost [Pytorch]
 
 ### Weakly-supervised segmentation
 - SEC [https://arxiv.org/pdf/1603.06098.pdf]
