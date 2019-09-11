@@ -153,6 +153,8 @@
 	+ https://github.com/juntang-zhuang/ShelfNet [PyTorch]
 - LadderNet [https://arxiv.org/pdf/1810.07810.pdf] [2018]
 	+ https://github.com/juntang-zhuang/LadderNet [PyTorch]
+- HRNet [https://arxiv.org/pdf/1904.04514v1.pdf] [2019]
+        + https://github.com/HRNet/HRNet-Semantic-Segmentation [Pytorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
